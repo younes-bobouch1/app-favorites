@@ -1,0 +1,54 @@
+html {
+    font-family: Courier;
+    background: rgb(39,124,207);
+    color: rgb(0, 0, 0);
+
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.mt4_log{
+    border-radius: 15px 15px 15px 15px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.h_left{
+    text-align: left;
+}
+
+.p_left{
+    text-align: left;
+}
+
+.mt4_3t{
+    width: 800px;
+    height: 400px;
+    float: left;
+}
+
+.h2_left{
+    text-align: left;
+}
+
+.mt4_gn{
+    border-radius: 15px 15px 15px 15px;
+    width: 300px;
+    height: 500px;
+}
